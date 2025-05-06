@@ -29,16 +29,6 @@ A dual-axis solar tracking system was developed using light-dependent resistors 
 
 ---
 
-## 📈 Key Results
-
-- Achieved significant improvement in power output using the dual-axis tracker compared to a fixed panel.
-- Demonstrated that the tracker keeps the panel aligned within ±2° of the sun’s position throughout the day.
-- Engineered a high-concentration photovoltaic (HCPV) model using DFM, DFA principles, capable of attaining a **1000x sun concentration ratio**, producing **117 kWh annually**.
-- Performed energy analysis on **NREL’s System Advisor Model (SAM)**, demonstrating **four HCPV units could produce as much power as a 1m² silicon-based solar panel**, with a potential daily output of **320 Wh**.
-- Measured voltage and current outputs under different lens focal lengths and tracking positions.
-
----
-
 ## 🛠️ CAD & Fabrication
 
 - Custom-designed 3D-printed mounts using **PLA** material.
@@ -72,5 +62,15 @@ A dual-axis solar tracking system was developed using light-dependent resistors 
 2. Connect the LDR sensors in a cross-configuration and mount the servos.
 3. Run the system and observe real-time alignment.
 4. Measure and log voltage and current values using a multimeter.
+
+---
+
+## 📈 Key Results
+
+- Achieved significant improvement in power output using the dual-axis tracker compared to a fixed panel.
+- Demonstrated that the tracker keeps the panel aligned within ±2° of the sun’s position throughout the day.
+- Engineered a high-concentration photovoltaic (HCPV) model using DFM, DFA principles, capable of attaining a **1000x sun concentration ratio**, producing **117 kWh annually**.
+- Performed energy analysis on **NREL’s System Advisor Model (SAM)**, demonstrating **four HCPV units could produce as much power as a 1m² silicon-based solar panel**, with a potential daily output of **320 Wh**.
+- Measured voltage and current outputs under different lens focal lengths and tracking positions.
 
 ---
